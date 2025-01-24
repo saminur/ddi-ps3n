@@ -1,13 +1,7 @@
 # ddi-ps3n
 PS3N: Leveraging Protein Sequence-Structure Similarity for Novel Drug-Drug Interaction Discovery
 
-# ddi-ps3n
-PS3N: Leveraging Protein Sequence-Structure Similarity for Novel Drug-Drug Interaction Discovery
-
-# ddi-ps3n
-PS3N: Leveraging Protein Sequence-Structure Similarity for Novel Drug-Drug Interaction Discovery
-
-# PS3N: Predicting Drug-Drug Interactions with Protein Similarity Networks
+# PS3N: Leveraging Protein Sequence-Structure Similarity for Novel Drug-Drug Interaction Discovery
 
 ## Project Overview
 This repository contains the code and resources for our study on predicting drug-drug interactions (DDIs) using the PS3N model. Our approach leverages protein sequence and structure information to build a similarity network for identifying novel DDIs. Due to space constraints, data files are not included in the repository but will be provided upon request or in the reviewers' comment section.
